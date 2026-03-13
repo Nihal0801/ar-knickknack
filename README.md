@@ -206,6 +206,29 @@ Some models used in the scene were imported from external sources including envi
 
 These models were used for educational purposes within the project.
 
+## Model Credits
+
+Several 3D models used in this project were obtained from Sketchfab.  
+The following creators are credited for their work.
+
+### Taj Mahal Model
+Creator: Dinendra Neyo  
+Source: Sketchfab  
+Link: https://sketchfab.com/3d-models/taj-mahal-3d-model-1eb09052f6cd421caea6cb3204cb15d
+
+### Pine Tree Model
+Creator: rhcreations  
+Source: Sketchfab  
+Link: https://sketchfab.com/3d-models/pine-tree-2-4fcec3506f9643ae82741b9c2b7fc3f8
+
+### Bird Model
+Creator: Blender Artist  
+Source: Sketchfab  
+License: CC Attribution  
+Link: https://sketchfab.com/3d-models/bird-e93a906eb38343c4a14458a637136329
+
+All models were used for educational purposes within this university project.
+
 ### Custom Elements
 
 Several scene components were designed or configured within the project including:
