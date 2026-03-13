@@ -18,6 +18,16 @@ The goal of this project is to demonstrate how Augmented Reality objects can fun
 
 ---
 
+## Motivation and Chosen Location
+
+The goal of this project was to explore how Augmented Reality objects can represent meaningful locations or memories. A knick-knack is often a small decorative object that reminds someone of a place or experience, and AR provides an opportunity to extend that idea into a digital interactive form.
+
+For this project, the Taj Mahal in Agra, India was selected as the featured location. The Taj Mahal is one of the Seven Wonders of the World and a UNESCO World Heritage Site. It represents historical architecture, cultural heritage, and global recognition.
+
+By representing the Taj Mahal as an AR knick-knack, the project demonstrates how augmented reality can be used to present contextual information about a location, including environmental data such as weather and local time.
+
+---
+
 ## Application Features
 
 ### Marker-Based AR Tracking
@@ -62,7 +72,7 @@ Displays a fun fact and historical information about the Taj Mahal.
 
 ---
 
-## Unity Scene Setup
+## Unity Scene Setup - Design (1 section on the design)
 
 ### Unity Scene Configuration
 ![Scene Setup](Images/Unity_Scene_1.png)
@@ -232,7 +242,7 @@ Once the cube marker is detected, the AR environment will appear attached to the
 
 ---
 
-## Development Process
+## Development Process and Implementation
 
 The project was developed using Unity with Vuforia for marker tracking. The development process included setting up the AR camera, configuring the cube marker, importing models, creating the environment, and developing scripts for displaying dynamic data such as weather and time.
 
