@@ -27,6 +27,46 @@ The application uses the Vuforia Engine for marker-based AR tracking. A physical
 The tracking system allows the AR scene to move naturally as the cube moves, creating the illusion that the digital environment is physically attached to the cube.
 
 ---
+## Application Screenshots
+
+### AR Taj Mahal Environment
+![Taj Mahal AR](Images/Taj_Mahal.png)
+
+### Top View of AR Scene
+![Top View](Images/Taj_topveiw.png)
+
+### Weather Panel
+Displays live weather data for Agra using OpenWeather API.
+
+![Weather Panel](Images/Weather_panel.png)
+
+### Local Time Panel
+Displays the current local time in Agra using UTC offset calculation.
+
+![Time Panel](Images/Time_panel.png)
+
+### Taj Mahal Information Panel
+Displays a fun fact and historical information about the Taj Mahal.
+
+![Fun Fact Panel](Images/Funfact_panel.png)
+
+---
+
+## Unity Scene Setup
+
+### Unity Scene Configuration
+![Scene Setup](Images/Unity_Scene_1.png)
+
+![Scene Setup](Images/Unity_Scene_2.png)
+
+![Scene Setup](Images/Unity_Scene_3.png)
+
+![Scene Setup](Images/Unity_Scene_4.png)
+
+![Scene Setup](Images/Unity_Scene_5.png)
+
+![Scene Setup](Images/Unity_Scene_6.png)
+
 
 ### 3D Environment
 
