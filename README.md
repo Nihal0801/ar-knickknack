@@ -88,6 +88,13 @@ Displays a fun fact and historical information about the Taj Mahal.
 ![Scene Setup](Images/Unity_Scene_6.png)
 
 
+## Demo Video
+
+A short demonstration of the **AR Taj Mahal Knick-Knack** application showing the cube marker detection, AR environment, and information panels.
+
+https://drive.google.com/file/d/1KO9a4BvPPnHLPV_tuQsjT0BKRz7VbFun/view?usp=sharing
+
+
 ### 3D Environment
 
 The AR scene contains a small 3D environment themed around the Taj Mahal. The environment includes the Taj Mahal model and surrounding elements designed to represent the location visually.
