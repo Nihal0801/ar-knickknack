@@ -28,6 +28,16 @@ The tracking system allows the AR scene to move naturally as the cube moves, cre
 
 ---
 ## Application Screenshots
+---
+
+## Cube Marker Used for AR Tracking
+
+The application uses a **Vuforia cube marker** consisting of six unique faces.  
+When the webcam detects this cube marker, the AR scene containing the Taj Mahal environment appears anchored to the cube.
+
+![Cube Marker](Images/cube_marker.png)
+
+---
 
 ### AR Taj Mahal Environment
 ![Taj Mahal AR](Images/Taj_Mahal.png)
